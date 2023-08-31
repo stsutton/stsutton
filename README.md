@@ -1,5 +1,5 @@
 ## Currently Learning
-- Web Dev (Svelte)
+- Full stack web development
 ## Already Know
 - A little C/C++
 - Java
