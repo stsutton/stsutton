@@ -1,8 +1,10 @@
-## Currently Learning
-- Full stack web development
-## Already Know
-- A little C/C++
-- Arduino
+# About Me
+- Junior in HS
+- Took AP Computer Science A
+- Want to study Computer Engineering in college
+
+# Skills/Languages
 - Java
 - Python
-- Basic HTML, CSS, and JS
+- Basic web dev
+- Basic C/C++
